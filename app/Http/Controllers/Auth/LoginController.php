@@ -61,7 +61,7 @@ class LoginController extends Controller
             return redirect()->route('home');
         }else{
             return redirect()->route('login')
-            ->with('message','Email-Address And Password Are Wrong.');
+            ->with('message','Mobile Or Password Are Wrong.');
         }
     }
 
