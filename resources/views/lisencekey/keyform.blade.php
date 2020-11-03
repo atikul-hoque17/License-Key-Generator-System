@@ -269,10 +269,7 @@ thead tr th {
 
 
 
-
-//////////////////////////////////
-
-
+        //Create Lisence key start here
 
            $('#Createkey').click(function(){
 
@@ -305,7 +302,7 @@ thead tr th {
 
 
 
-//////////////////////////
+//Create Lisence key end here
 
 
     });
